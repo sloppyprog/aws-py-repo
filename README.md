@@ -1,2 +1,2 @@
 # aws-py-repo
-AWS Python Repository
+AWS Python Repository for Sloppy Programmer!
